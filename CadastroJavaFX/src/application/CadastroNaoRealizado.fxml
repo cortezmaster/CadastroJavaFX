@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane onDragDetected="#Enviar" prefHeight="300.0" prefWidth="300.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MainController">
+   <children>
+      <Label layoutX="58.0" layoutY="80.0" text="Erro." textFill="#d01818">
+         <font>
+            <Font name="Bell MT Italic" size="85.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
